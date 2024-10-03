@@ -78,4 +78,8 @@ public abstract class Character {
             return false;
         }
     }
+
+    public String toString() {
+        return(name + " | Leben: " + healthpoints + " Spezialfähigkeit aktiviert: " + specialAbilityActive + " Angriffsschaden: " + attackDamageMin + "-" + attackDamageMax);
+    }
 }
