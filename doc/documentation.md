@@ -34,7 +34,7 @@ Der Zwerg erbt von Character und überschreibt folgende Funktionalitäten:
 Der Min-, und Maxschaden wurde angepasst,und  die Spezialfähigkeit.
 Bei der Spezialfähigkeit, die sich nur aktivieren lässt wenn der Zwerg weniger wie 50 Leben hat, hat er eine 50%ige Chance seinen Schaden beim Angriff zu verdoppeln, anderenfalls jedoch macht er nur halb so wie Schaden.
 
-### Modul 5 Teil 2 (02.10.2024)
+### Modul 5 Teil 2 (03.10.2024)
 
 #### Die BattleArena wurde hinzugefügt
 
