@@ -44,11 +44,11 @@ public abstract class Character {
         this.specialAbilityActive = specialAbilityActive;
     }
 
-    public void setAttackDamageMin(int attackDamageMin) {
+    protected void setAttackDamageMin(int attackDamageMin) {
         this.attackDamageMin = attackDamageMin;
     }
 
-    public void setAttackDamageMax(int attackDamageMax) {
+    protected void setAttackDamageMax(int attackDamageMax) {
         this.attackDamageMax = attackDamageMax;
     }
 

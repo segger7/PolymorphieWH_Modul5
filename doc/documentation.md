@@ -63,4 +63,32 @@ Spezialfähigkeit deaktivieren (Es wird die deactivateSpecialAbility-Methode vom
 simulateFight: Diese Methode ruft die attack Methode vom jeweiligen Angreifer auf und wird in der fight-Methode genutzt
 crownWinner: Diese Methode setzt den Gewinner und gibt eine Nachricht auf die Kommandozeile aus.
 
-Es gibt noch Setter und Getter zu den jeweiligen Datenfelder, wobei die Setter private sind um den Zugriff von Außen zu beschränke
+Es gibt noch Setter und Getter zu den jeweiligen Datenfelder, wobei die Setter private sind um den Zugriff von Außen zu beschränken
+
+### Fragen für das Lerntagebuch
+
+1. Was habe ich im Rahmen der Lernaufgabe gelernt (Lernertrag)?
+
+Mir waren alle Konzepte schon vorher bekannt.
+
+2. Was habe ich noch überhaupt nicht verstanden?
+
+Ich habe alles verstanden.
+
+3. Was ich dazugelernt habe und jetzt besser kann:
+
+Mir waren bereits alle Konzepte bekannt
+
+4. !Ungültiger Link! zur Fragestellung
+
+Ich kann diese Frage nicht beantworten da ein Ungültiger Link in der Fragestellung vorkommt.
+
+5. !Ungültiger Link! zur Fragestellung
+
+Ich kann diese Frage nicht beantworten da ein Ungültiger Link in der Fragestellung vorkommt.
+
+6. Wie wird es weitergehen?
+
+Ich denke das ich alles von dieser Aufgabe sehr gut
+verstanden habe und mir die Sachen die ich mir genauer angeschaut
+habe helfen werden.
